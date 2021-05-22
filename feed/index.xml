@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Feria Salud y Bienestar Estudiantil UC</title>
-	<atom:link href="/feriasaludybienestaruc/feed/" rel="self" type="application/rss+xml" />
-	<link>/feriasaludybienestaruc/</link>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 15 Feb 2021 13:20:59 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>/feriasaludybienestaruc/wp-content/uploads/2021/05/cropped-logo1back-32x32.png</url>
+	<url>/wp-content/uploads/2021/05/cropped-logo1back-32x32.png</url>
 	<title>Feria Salud y Bienestar Estudiantil UC</title>
-	<link>/feriasaludybienestaruc/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>/feriasaludybienestaruc/hello-world/</link>
-					<comments>/feriasaludybienestaruc/hello-world/#comments</comments>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Mon, 15 Feb 2021 13:20:59 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">http:/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing! [...]<p><a class="btn btn-secondary understrap-read-more-link" href="/feriasaludybienestaruc/hello-world/">Read More...</a></p>]]></description>
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing! [...]<p><a class="btn btn-secondary understrap-read-more-link" href="/hello-world/">Read More...</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/feriasaludybienestaruc/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
